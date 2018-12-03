@@ -1,2 +1,1 @@
-# deep-learning-from-scratch
-Deep Learning from Scratch
+# Deep Learning from Scratch
